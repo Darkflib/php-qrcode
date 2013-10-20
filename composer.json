@@ -1,0 +1,23 @@
+{
+    "name": "darkflib/php-qrcode",
+    "description": "QRCode library for PHP",
+    "type": "library",
+    "keywords": ["qrcode", "qr", "barcode", "image"],
+    "homepage": "https://github.com/Darkflib/php-qrcode",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Mike Preston (darkflib)",
+            "email": "mike@technomonk.com",
+            "homepage": "http://www.mikepreston.org",
+            "role": "Developer"
+        },
+        {
+            "name": "Dominik Dzienia",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "support@technomonk.com"
+    }
+}
