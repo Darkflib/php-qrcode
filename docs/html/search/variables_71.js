@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['qr_5fcache_5fdir',['QR_CACHE_DIR',['../group___q_r___d_e_f_c_o_n_f_i_g_s.html#ga30bc15179f940c7cefe147c7c10d21d2',1,'qrconfig.php']]],
+  ['qr_5fcacheable',['QR_CACHEABLE',['../group___q_r___d_e_f_c_o_n_f_i_g_s.html#ga2e289dc15e8d9d0c93bcb589e2e4fa7f',1,'qrconfig.php']]],
+  ['qr_5fdefault_5fmask',['QR_DEFAULT_MASK',['../group___q_r___d_e_f_c_o_n_f_i_g_s.html#gad558bfb85d8139a05d1d663579be938b',1,'qrconfig.php']]],
+  ['qr_5feclevel_5fh',['QR_ECLEVEL_H',['../group___q_r___c_o_n_s_t.html#ga6c2b8366b7a5336d61db447be8884044',1,'qrconst.php']]],
+  ['qr_5feclevel_5fl',['QR_ECLEVEL_L',['../group___q_r___c_o_n_s_t.html#gae106d3baebd9c27c90b2abadb25df012',1,'qrconst.php']]],
+  ['qr_5feclevel_5fm',['QR_ECLEVEL_M',['../group___q_r___c_o_n_s_t.html#gafa670ea7afad29461222face71c5ba1e',1,'qrconst.php']]],
+  ['qr_5feclevel_5fq',['QR_ECLEVEL_Q',['../group___q_r___c_o_n_s_t.html#gab8794177ecfd3ccdc8a1677ea3e32bbe',1,'qrconst.php']]],
+  ['qr_5ffind_5fbest_5fmask',['QR_FIND_BEST_MASK',['../group___q_r___d_e_f_c_o_n_f_i_g_s.html#gaf4ec4aec5be16e8785674055683659e6',1,'qrconfig.php']]],
+  ['qr_5ffind_5ffrom_5frandom',['QR_FIND_FROM_RANDOM',['../group___q_r___d_e_f_c_o_n_f_i_g_s.html#ga4a3b50c407bbdf7ffa1197a666947bec',1,'qrconfig.php']]],
+  ['qr_5flog_5fdir',['QR_LOG_DIR',['../group___q_r___d_e_f_c_o_n_f_i_g_s.html#ga31f4c0eeeec4e117adbfb95bdc0b34cc',1,'qrconfig.php']]],
+  ['qr_5fmode_5f8',['QR_MODE_8',['../group___q_r___c_o_n_s_t.html#gaa3452182528d53c7b65c6802ad15b772',1,'qrconst.php']]],
+  ['qr_5fmode_5fan',['QR_MODE_AN',['../group___q_r___c_o_n_s_t.html#ga3525e0bd3a1dadffcdb3f1b9a973db8f',1,'qrconst.php']]],
+  ['qr_5fmode_5fkanji',['QR_MODE_KANJI',['../group___q_r___c_o_n_s_t.html#ga2b9cfae389f30855ddfa68fef6ffb5ee',1,'qrconst.php']]],
+  ['qr_5fmode_5fnul',['QR_MODE_NUL',['../group___q_r___c_o_n_s_t.html#ga24d6b51d9ddaaefd084528b779b16ffb',1,'qrconst.php']]],
+  ['qr_5fmode_5fnum',['QR_MODE_NUM',['../group___q_r___c_o_n_s_t.html#gabc8d5a6a5d9977177af9aced52703323',1,'qrconst.php']]],
+  ['qr_5fmode_5fstructure',['QR_MODE_STRUCTURE',['../group___q_r___c_o_n_s_t.html#gab9c56e5432a5c63b792802d26cff5d9b',1,'qrconst.php']]],
+  ['qr_5fpng_5fmaximum_5fsize',['QR_PNG_MAXIMUM_SIZE',['../group___q_r___d_e_f_c_o_n_f_i_g_s.html#ga45b4274e494e9533fab417bc0aa0eb2a',1,'qrconfig.php']]]
+];
